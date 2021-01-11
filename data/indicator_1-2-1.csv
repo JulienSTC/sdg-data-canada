@@ -1,9 +1,50 @@
-Year,Sex,Value
+Year,Persons in low income,Value
+2015,All persons,14.5
+2016,All persons,12.8
+2017,All persons,11.7
+2018,All persons,11
+2015,Persons under 18 years,16.4
+2016,Persons under 18 years,14
+2017,Persons under 18 years,11.6
+2018,Persons under 18 years,10.8
+2015,Persons 18 to 64 years,15.7
+2016,Persons 18 to 64 years,14
+2017,Persons 18 to 64 years,13.2
+2018,Persons 18 to 64 years,12.5
+2015,Persons 65 years and over,7
+2016,Persons 65 years and over,7
+2017,Persons 65 years and over,6
+2018,Persons 65 years and over,5.6
 2015,Males,14.2
 2016,Males,12.3
 2017,Males,11.5
 2018,Males,11.1
+2015,Males, under 18 years,16.1
+2016,Males, under 18 years,13
+2017,Males, under 18 years,11.5
+2018,Males, under 18 years,11.3
+2015,Males, 18 to 64 years,15.4
+2016,Males, 18 to 64 years,13.5
+2017,Males, 18 to 64 years,12.9
+2018,Males, 18 to 64 years,12.5
+2015,Males, 65 years and over,6
+2016,Males, 65 years and over,6.3
+2017,Males, 65 years and over,5.4
+2018,Males, 65 years and over,5
 2015,Females,14.8
 2016,Females,13.3
 2017,Females,11.9
 2018,Females,10.9
+2015,Females, under 18 years,16.8
+2016,Females, under 18 years,15.1
+2017,Females, under 18 years,11.8
+2018,Females, under 18 years,10.2
+2015,Females, 18 to 64 years,16
+2016,Females, 18 to 64 years,14.4
+2017,Females, 18 to 64 years,13.5
+2018,Females, 18 to 64 years,12.4
+2015,Females, 65 years and over,7.9
+2016,Females, 65 years and over,7.5
+2017,Females, 65 years and over,6.5
+2018,Females, 65 years and over,6.2
+
